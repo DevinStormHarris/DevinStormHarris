@@ -1,6 +1,6 @@
 ## Hi there, I'm Devin 👋🏽
 
-At Verana Health, I build data extraction tools that help accelerate medical research.
+At Verana Health, I build data compilation tooling to help scientists accelerate their medical research.
 
 ## Outside of programming, I like to:
 

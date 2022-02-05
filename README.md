@@ -1,6 +1,6 @@
-## Hi there, I'm Devin 👋🏽
+## Welcome to my GitHub! 👋🏽
 
-At Verana Health, I build data compilation tooling to help scientists accelerate their medical research.
+I'm Devin, and I'm a software engineer at Verana Health. Here, I build data extraction tooling to help scientists accelerate their medical research. My team uses AWS and the .NET ecosystem day-to-day, which encourages me to branch out and try new languages at home. I'm currently working on a practice project called cake.
 
 ## Outside of programming, I like to:
 

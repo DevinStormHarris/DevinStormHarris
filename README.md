@@ -15,4 +15,4 @@ I'm Devin, and I'm a software engineer at Verana Health. Here, I build data extr
 [➡️ LinkedIn ⬅️][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/devin-harris-53454a167/
+[linkedin]: https://www.linkedin.com/in/devinstormharris/

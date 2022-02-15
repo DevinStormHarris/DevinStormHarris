@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋🏽
 
-I'm Devin, and I'm a software engineer at Verana Health. Here, I build data extraction tooling to help scientists accelerate their medical research. My team uses AWS and the .NET ecosystem day-to-day, which encourages me to branch out and try new languages at home.
+I'm Devin, and I'm a software engineer at Verana Health. Here, I build data ingestion tooling for EHRs, which subsequently provides real-world evidence to scientists. The impact is an acceleration in medical research.
 
 ## Outside of programming, I like to:
 

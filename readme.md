@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋🏽
 
-I'm Devin, and I'm a software engineer at Verana Health. Here, I build data ingestion tooling for EHRs, which subsequently provides real-world evidence to scientists. The impact is an acceleration in medical research.
+I’m a software engineer at Verana Health, where I am focused on building data extraction tools. I’m passionate about solving hard problems and growing my understanding around difficult topics. 
 
 ## Outside of programming, I like to:
 
